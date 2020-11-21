@@ -12,7 +12,10 @@
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
-  "author": "Lenovo",
+  "author": {
+    "name": "RizkiNabilahSilmina05",
+    "email": "bila05@mhs.unsyiah.ac.id"
+  },
   "license": "MIT",
   "config": {
     "forge": {
